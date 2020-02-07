@@ -8,5 +8,6 @@
 * Псевдоэлементы:before и after
 
 ```
-Задание было выполнено на курсах [Digital Banana](https://www.digital-banana.ru/)
+Задание было выполнено на курсах:
 ```
+[Digital Banana](https://www.digital-banana.ru/)
